@@ -20,6 +20,5 @@ public class Main {
 
     team.result(course.getCourse());
 
-
     }
 }
